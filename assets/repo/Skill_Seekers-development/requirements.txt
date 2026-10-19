@@ -14,7 +14,7 @@ idna==3.11
 iniconfig==2.3.0
 jsonschema==4.25.1
 jsonschema-specifications==2025.9.1
-mcp==1.18.0
+mcp==1.30.0
 packaging==25.0
 pluggy==1.6.0
 pydantic==2.12.3
